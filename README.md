@@ -1,4 +1,3 @@
-# Walid-El-bassouri
 <h1 align="center">Hi 👋, I'm Walid El Bassouri</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
